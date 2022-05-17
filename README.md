@@ -1,4 +1,4 @@
-### Hola, I'm Wilhen Alberto Hui Mei 👋!
+### Hola, I'm Wilhen Alberto Hui Mei <img src="raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">!
 
 - 🌱 I’m currently learning Java, Python, C, HTML, CSS, Javascript, and many more! 
 - 💬 I'm interested in Machine Learning and Artificial Intelligence
