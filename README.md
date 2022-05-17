@@ -1,4 +1,4 @@
-### Hola, I'm Wilhen Alberto Hui Mei <img src="https://i.gifer.com/Vu4M.gif">!
+### Hola, I'm Wilhen Alberto Hui Mei ✋!
 
 - 🌱 I’m currently learning Java, Python, C, HTML, CSS, Javascript, and many more! 
 - 💬 I'm interested in Machine Learning and Artificial Intelligence
