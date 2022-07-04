@@ -46,5 +46,5 @@
 
 ---
   
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=WilhenAlbertoHM&show_icons=true&theme=radical"> 
-<img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilhenAlbertoHM&theme=tokyotonight">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=WilhenAlbertoHM&show_icons=true&theme=tokyonight"> 
+<img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilhenAlbertoHM&theme=tokyonight">
