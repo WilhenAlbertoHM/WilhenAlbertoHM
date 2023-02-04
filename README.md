@@ -26,9 +26,6 @@
 <img align="left" width="26px" src="https://user-images.githubusercontent.com/66649571/135292161-95b3b1c4-c836-47b8-b345-f0e28c0de662.png">
 <img align="left" width="26px" src="https://user-images.githubusercontent.com/92064680/176925749-3c2a55a3-408e-4b8e-bd03-c53c08e0b445.png">
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<br />
-
-### Web:
 <img align="left" width="26px" src="https://user-images.githubusercontent.com/66649571/135294003-d70bc671-c660-4cc8-83e5-af7f2f8364d1.png">
 <img align="left" width="26px" src="https://user-images.githubusercontent.com/66649571/135294137-87e4c162-9493-466a-ab2d-217887c048ce.png">
 <br />
