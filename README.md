@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Java, Python, C, HTML, CSS, Javascript, and many more! 
 - 💬 I'm interested in learning and improving on a daily basis.
-- 😄 My goal in life is to use spoken languages and my technical skills to connect people around the world regardless of their native languages.
+- 😄 My goal in life is to use spoken languages and my technical skills to connect people worldwide regardless of their native languages.
 - ⚡ Fun fact: I speak fluent Spanish, Chinese (Cantonese), English, and conversational French.
 - 📫 How to reach me: Website: https://WilhenAlbertoHM.github.io || Email: wilhen.huimei001@umb.edu || LinkedIn: https://www.linkedin.com/in/wilhen-alberto-hui-mei-414976210/
 
