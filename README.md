@@ -2,7 +2,7 @@
 
 - 🌱 I have experience with Java, Python, C, Git, and LaTeX!
 - 📘 I'm currently learning scikit-learn, Keras, HTML, CSS, and JavaScript!
-- 💬 I'm interested in learning about Artificial Intelligence, Natural Learning Processing, more specifically.
+- 💬 I'm interested in learning about Artificial Intelligence, Natural Learning Processing, and Machine Learning.
 - 😄 My goal in life is to use spoken languages and my technical skills to connect people worldwide regardless of their native languages.
 - ⚡ Fun fact: I speak fluent Spanish, Chinese (Cantonese), English, and conversational French.
 - 📫 How to reach me: Website: https://WilhenAlbertoHM.github.io || Email: wilhen.huimei001@umb.edu || LinkedIn: https://www.linkedin.com/in/wilhen-alberto-hui-mei-414976210/
