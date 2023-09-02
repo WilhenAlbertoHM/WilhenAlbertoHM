@@ -34,6 +34,7 @@
 ---
 
 ### Tools:
+
 <img align="left" width="26px" src="https://user-images.githubusercontent.com/66649571/135293714-7749618f-b435-4702-920d-1309e839eba8.png">
 <img align="left" width="26px" src="https://user-images.githubusercontent.com/92064680/176923637-421ad351-ef2d-47eb-8ad2-58448a45adeb.png">
 <img align="left" width="26px" src="https://user-images.githubusercontent.com/92064680/176924018-c9459638-02cd-483d-9fdd-16cd4d1e6152.png">
@@ -42,6 +43,8 @@
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 <img align="left" width="26px" src="https://user-images.githubusercontent.com/66649571/135295741-6c363b5e-163d-4654-9070-93b82b7d6ec4.png">
 <img align="left" width="26px" src="https://user-images.githubusercontent.com/92064680/176925133-b581366e-4af7-4391-a0ac-18f4eda795e3.png">
+<img align="left" width="26px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
+<img align="left" width="26px" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png">
 <br />
 
 ---
