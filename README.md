@@ -1,6 +1,6 @@
 ### Hola, I'm Wilhen Alberto Hui Mei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">!
 
-- 🌱 I have experience with Python, Java, and JavaScript!
+- 🌱 I have experience with Python, Java, C, and JavaScript!
 - 📘 I'm currently learning Keras and experimenting with different machine-learning techniques to train models!
 - 💬 I'm interested in learning about Artificial Intelligence, Machine Learning, and Data Science.
 - 😄 My goal in life is to use spoken languages and my technical skills to connect people worldwide regardless of their native languages.
