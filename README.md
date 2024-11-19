@@ -1,11 +1,11 @@
 ### Hola, I'm Wilhen Alberto Hui Mei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">!
 
-- 🌱 I have experience with Python, Java, C, and JavaScript!
-- 📘 I'm currently learning Keras and experimenting with different machine-learning techniques to train models!
+- 🌱 I have experience with Python (scikit-learn, Keras, TensorFlow, PyTorch, LangChain), Java, and JavaScript!
+- 📘 I'm currently learning how to build LLMs for multiple applications.
 - 💬 I'm interested in learning about Artificial Intelligence, Machine Learning, and Data Science.
-- 😄 My goal in life is to use spoken languages and my technical skills to connect people worldwide regardless of their native languages.
+- 😄 My goal in life is to use both spoken and programming languages to create a positive impact surrounding us!
 - ⚡ Fun fact: I speak fluent Spanish, Chinese (Cantonese), English, and conversational French.
-- 📫 How to reach me: Website: https://WilhenAlbertoHM.github.io || Email: wilhen.huimei001@umb.edu || LinkedIn: https://www.linkedin.com/in/wilhen-alberto-hui-mei-414976210/
+- 📫 How to reach me: Website: https://WilhenAlbertoHM.github.io || Email: wilhen.huimei001@umb.edu || LinkedIn: https://www.linkedin.com/in/wilhen-alberto-hui-mei/
 
 ---
 
