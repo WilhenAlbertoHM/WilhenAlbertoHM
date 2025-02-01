@@ -1,6 +1,6 @@
 ## Hola, I'm Wilhen Alberto Hui Mei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">!
 
-- 🌱 I have experience with Python (scikit-learn, Keras, TensorFlow, PyTorch, LangChain), Java, and JavaScript!
+- 🌱 I have experience with Python (scikit-learn, Keras, TensorFlow, PyTorch, LangChain), Java, and JavaScript (React)!
 - 📘 I'm currently learning how to build LLMs for multiple applications.
 - 💬 I'm interested in learning about Artificial Intelligence, Machine Learning, and Data Science.
 - 😄 My goal in life is to use both spoken and programming languages to create a positive impact surrounding us!
