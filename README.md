@@ -1,39 +1,56 @@
 ## Hola, I'm Wilhen Alberto Hui Mei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">!
 
-- 🌱 I have experience with Python (scikit-learn, Keras, TensorFlow, PyTorch, LangChain), Java, and JavaScript (React)!
-- 📘 I'm currently learning how to build LLMs for multiple applications.
-- 💬 I'm interested in learning about Artificial Intelligence, Machine Learning, and Data Science.
-- 😄 My goal in life is to use both spoken and programming languages to create a positive impact surrounding us!
-- ⚡ Fun fact: I speak fluent Spanish, Chinese (Cantonese), English, and conversational French.
-- 📫 How to reach me:
-  - Website: https://WilhenAlbertoHM.vercel.app
-  - Email: wahm0131@gmail.edu
-  - LinkedIn: https://www.linkedin.com/in/wilhenalbertohm/
----
 
-### Languages:
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/66649571/135292161-95b3b1c4-c836-47b8-b345-f0e28c0de662.png">
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/66649571/135290149-f20fa278-c408-44de-8b7f-72878c55ed28.png">
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/66649571/135294003-d70bc671-c660-4cc8-83e5-af7f2f8364d1.png">
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/66649571/135294137-87e4c162-9493-466a-ab2d-217887c048ce.png">
-
-<br />
-  
----
-
-### Tools:
-
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png">
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/66649571/135293714-7749618f-b435-4702-920d-1309e839eba8.png">
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/66649571/135295741-6c363b5e-163d-4654-9070-93b82b7d6ec4.png">
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/92064680/176925133-b581366e-4af7-4391-a0ac-18f4eda795e3.png">
-<br/>
+### 📫 How to reach me
+- 📧 Email: your.email@example.com  
+- 💼 [LinkedIn](www.linkedin.com/in/wilhenalbertohm)  
+- 🌐 [Portfolio](https://wilhenalbertohm.vercel.app/)
 
 ---
+
+### 💻 Programming Languages  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</p>
+
+---
+
+
+### 📚 Libraries & Frameworks  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Keras (via TensorFlow)" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/WilhenAlbertoHM/portfolio/2d5096966a5e99f89e1610ece0b5ac44eee3a45c/public/TechStack/Backend/langchain.svg" alt="LangChain" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+</p>
+
+---
+
+### 🛠️ Developer Tools  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="Bun" width="40" height="40"/>
+</p>
+
+---
+
+### 🌍 Languages  
+- **Fluent:** Spanish, Chinese (Cantonese)  
+- **Proficient:** French, German
   
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=WilhenAlbertoHM&show_icons=true&theme=tokyonight"> 
 <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilhenAlbertoHM&theme=tokyonight">
