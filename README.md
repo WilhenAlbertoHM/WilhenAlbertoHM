@@ -1,8 +1,7 @@
 ## Hola, I'm Wilhen Alberto Hui Mei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">!
 
 
-### 📫 How to reach me
-- 📧 Email: your.email@example.com  
+### 📫 How to reach me  
 - 💼 [LinkedIn](www.linkedin.com/in/wilhenalbertohm)  
 - 🌐 [Portfolio](https://wilhenalbertohm.vercel.app/)
 
