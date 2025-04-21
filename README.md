@@ -1,13 +1,13 @@
 # Hola, I'm Wilhen Alberto Hui Mei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">!
 
 
-### 📫 How to reach me  
+## 📫 How to reach me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/wilhenalbertohm)  
 - 🌐 [Portfolio](https://wilhenalbertohm.vercel.app/)
 
 ---
 
-### 💻 Programming Languages  
+## 💻 Programming Languages  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -20,7 +20,7 @@
 ---
 
 
-### 📚 Libraries & Frameworks  
+## 📚 Libraries & Frameworks  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Keras (via TensorFlow)" width="40" height="40"/>
@@ -34,7 +34,7 @@
 
 ---
 
-### 🛠️ Developer Tools  
+## 🛠️ Developer Tools  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
@@ -47,7 +47,7 @@
 
 ---
 
-### 🌍 Languages  
+## 🌍 Languages  
 - **Fluent:** Spanish, Chinese (Cantonese)  
 - **Proficient:** French, German
   
