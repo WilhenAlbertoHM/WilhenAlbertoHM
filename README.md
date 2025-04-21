@@ -2,7 +2,7 @@
 
 
 ### 📫 How to reach me  
-- 💼 [LinkedIn](www.linkedin.com/in/wilhenalbertohm)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/wilhenalbertohm)  
 - 🌐 [Portfolio](https://wilhenalbertohm.vercel.app/)
 
 ---
