@@ -5,8 +5,6 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/wilhenalbertohm)  
 - 🌐 [Portfolio](https://wilhenalbertohm.vercel.app/)
 
----
-
 ## 💻 Programming Languages  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -16,9 +14,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </p>
-
----
-
 
 ## 📚 Libraries & Frameworks  
 <p align="left">
@@ -32,8 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 </p>
 
----
-
 ## 🛠️ Developer Tools  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
@@ -44,8 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="Bun" width="40" height="40"/>
 </p>
-
----
 
 ## 🌍 Languages  
 - **Fluent:** Spanish, Chinese (Cantonese)  
