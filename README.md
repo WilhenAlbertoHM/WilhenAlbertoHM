@@ -1,5 +1,6 @@
 # Hola, I'm Wilhen Alberto Hui Mei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">!
 
+Love to use programming and spoken languages to serve others 💻🌎
 
 ## 📫 How to reach me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/wilhenalbertohm)  
