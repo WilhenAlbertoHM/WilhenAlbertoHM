@@ -2,7 +2,7 @@
 
 Enjoy using programming and spoken languages to serve others 💻🌎
 
-## 📫 How to reach me  
+## 📫 Contact Information
 - 💼 [LinkedIn](https://www.linkedin.com/in/wilhenalbertohm)  
 - 🌐 [Portfolio](https://wilhenalbertohm.vercel.app/)
 
