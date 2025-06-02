@@ -1,6 +1,6 @@
 # Hola, I'm Wilhen Alberto Hui Mei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">!
 
-Enjoy using programming and spoken languages to serve others 💻🌎
+Developer with 2+ years of experience building AI/ML and software solutions. Enjoy using programming and spoken languages to serve others 💻🌎!
 
 ## 📫 Contact Information
 - 💼 [LinkedIn](https://www.linkedin.com/in/wilhenalbertohm)  
