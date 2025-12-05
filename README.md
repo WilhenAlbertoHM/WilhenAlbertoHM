@@ -44,6 +44,3 @@ Enjoy using programming and spoken languages to serve others 💻🌎!
 ## 🌍 Languages  
 - **Fluent:** Spanish, Chinese (Cantonese)  
 - **Proficient:** French, German
-  
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=WilhenAlbertoHM&show_icons=true&theme=tokyonight"> 
-<img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilhenAlbertoHM&theme=tokyonight">
